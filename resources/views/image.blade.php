@@ -1,0 +1,1 @@
+<img class="img_msg" src="{{\Storage::url($image)}}">
